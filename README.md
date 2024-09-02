@@ -17,4 +17,5 @@ The src files are as follows:
 - Exception class that will catch an error when the error ListEmptyException is called.
 
 ## MyLinkedListTest.java
-- This is a JUnit testing class that checks tests for the ADT functions. The goal is to have correct testing methods for all the functions, and that the test run would be correct. 
+- This is a JUnit testing class that checks tests for the ADT functions. The goal is to have correct testing methods for all the functions, and that the test run would be correct.
+- The isEmpty() function has already been done for you.
